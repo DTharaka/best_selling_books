@@ -4,7 +4,7 @@
 
 best_selling_books
 
-An application used to fetch books data form an api, built with React, Redux, JavaScript, and CSS.
+An application used to fetch books data form books api, built with React, Redux, JavaScript, and CSS.
 
 ## Installation and Setup Instructions
 
